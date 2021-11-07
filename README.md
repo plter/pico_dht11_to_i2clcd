@@ -16,3 +16,5 @@
 * [https://github.com/T-622/RPI-PICO-I2C-LCD](https://github.com/T-622/RPI-PICO-I2C-LCD)
 
 # 视频介绍
+
+[https://www.bilibili.com/video/BV1JL411u7wv/](https://www.bilibili.com/video/BV1JL411u7wv/)
